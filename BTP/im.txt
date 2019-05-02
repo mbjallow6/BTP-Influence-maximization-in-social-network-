@@ -1,0 +1,16 @@
+seed nodes: 5	produced influence: 301.0
+seed nodes: 6	produced influence: 301.0
+seed nodes: 7	produced influence: 301.0
+seed nodes: 8	produced influence: 301.0
+seed nodes: 5	produced influence: 500.44375903
+seed nodes: 10	seed nodes: 10	produced influence: 54.5695979719
+seed nodes: 10	produced influence: 54.3899616199
+seed nodes: 10	produced influence: 54.1891246744
+seed nodes: 10	produced influence: 54.4893765227
+seed nodes: 10	produced influence: 52.7094097506
+seed nodes: 10	produced influence: 53.5696538116
+seed nodes: 10	produced influence: 53.0031466382
+seed nodes: 10	produced influence: 54.6154368889
+seed nodes: 10	produced influence: 54.1536994726
+seed nodes: 10	produced influence: 54.5288828335
+seed nodes: 10	produced influence: 54.0905499423
